@@ -1,4 +1,4 @@
-# Python Calculator
+## Python Calculator
 
 # Overview
 Tkinter Calculator GUI is a Python application that provides a graphical user interface for performing basic arithmetic operations. Built using the Tkinter library, it offers a simple and intuitive calculator interface for users.
@@ -17,7 +17,7 @@ Tkinter (usually comes pre-installed with Python)
 # Usage
 Run the Python script calculator.py:
 
-python calculator.py
+Python calculator.py
 
 Use the buttons to perform calculations.
 
